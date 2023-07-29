@@ -129,6 +129,6 @@ main .modal-content p {
   border-radius: 15px;
   background: radial-gradient(98.96% 98.96% at 50% 0%, #944848 0%, #932020 100%);
   padding: 10px;
-  transform: translateY(200px);
+  transform: translateY(2000px);
   transition: 2s;
 }/*# sourceMappingURL=style.css.map */
